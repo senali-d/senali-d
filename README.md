@@ -17,8 +17,7 @@ while(dev.isCoding())
 ```
 
 
-<img align="left" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=senali-d&show_icons=true"/>
-
+<img align="left" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>
 
 ## :fire: Let's work harder to build a beautiful :earth_americas:
 ## :two_men_holding_hands: Together!
