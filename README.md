@@ -1,5 +1,8 @@
 # Hi, I'm Senali 👋
 
+
+[![@senali's Holopin board](https://holopin.io/api/user/board?user=senali)](https://holopin.io/@senali)
+
 ---
 
 ###### A passionate frontend developer
@@ -17,7 +20,7 @@ while(dev.isCoding())
 ```
 
 
-<!--<img align="left" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>-->
+<img align="left" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>
 
 ## :fire: Let's work harder to build a beautiful :earth_americas:
 ## :two_men_holding_hands: Together!
