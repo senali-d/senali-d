@@ -40,3 +40,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Senali
+
+## Achievements
+
+#### reactplay - Level 5
+
+[View my contribution log](https://aviyel.com/user/senali-d/43/rewards?log)
+
+![reactplay rewards](https://aviyel.com/assets/uploads/rewards/share/user/6144/readme/43.png)
