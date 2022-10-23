@@ -1,8 +1,5 @@
 # Hi, I'm Senali 👋
 
-
-[![@senali's Holopin board](https://holopin.io/api/user/board?user=senali)](https://holopin.io/@senali)
-
 ---
 
 ###### A passionate frontend developer
@@ -48,3 +45,7 @@ Here are some ideas to get you started:
 [View my contribution log](https://aviyel.com/user/senali-d/43/rewards?log)
 
 ![reactplay rewards](https://aviyel.com/assets/uploads/rewards/share/user/6144/readme/43.png)
+
+[![@senali's Holopin board](https://holopin.io/api/user/board?user=senali)](https://holopin.io/@senali)
+
+![](https://komarev.com/ghpvc/?username=senali-d)
