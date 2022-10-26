@@ -16,7 +16,7 @@ while(dev.isCoding())
 ```
 
 <img align="left" width="450px" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Achievements
 <table>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br/> So, How to contribute open source project using GitHub?
 Best way to improve skill faster and grow network within the community. 
 It is best way to grow your self. <br/>
-It's fun to contribute... </p> <br/> <br/><br/>
+It's fun to contribute... </p> <br/> <br/><br/><br/><br/>
 <p align="left">
 <a href="https://medium.com/@senali/git-cheatsheet-114e8d0d298a" title="Git Cheatsheet">
 <img src="https://miro.medium.com/max/700/1*YYtrZbMxhjDR8V_UsqofiQ.jpeg" alt="Git Cheatsheet." width="250px" align="left" />
