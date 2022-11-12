@@ -15,8 +15,8 @@ while(dev.isCoding())
 }
 ```
 
-<img align="left" width="450px" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<!--<img align="left" width="450px" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>
+<br/><br/><br/><br/><br/><br/><br/><br/>-->
 
 ### Achievements
 <table>
