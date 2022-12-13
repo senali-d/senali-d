@@ -1,8 +1,12 @@
 # Hi, I'm Senali 👋
 
 ---
+<samp>
+I am a Front-End developer who loves solving problems. I like to collaborate with developer for learning new things from them.
+</samp>
 
-###### A passionate frontend developer
+
+<!--###### A passionate frontend developer
 
 ```ts
 var dev = new Developer('Senali');
@@ -13,12 +17,18 @@ while(dev.isCoding())
   dev.openStackOverFlow();
   dev.drinkWater();
 }
-```
+```-->
+
+### 1st ever Hacktoberfest participation (October 2022)
+
+[![@senali's Holopin board](https://holopin.io/api/user/board?user=senali)](https://holopin.io/@senali)
+
+Community is the foundation of Open Source, find yours and GROW!!
 
 <!--<img align="left" width="450px" alt="awesome-github-profile" src="https://github-readme-stats-two-sage.vercel.app/api?username=senali-d&show_icons=true"/>
 <br/><br/><br/><br/><br/><br/><br/><br/>-->
 
-### Achievements
+<!--### Achievements
 <table>
 <td>
 
@@ -34,7 +44,7 @@ while(dev.isCoding())
 
 </td>
 </tr>
-</table>
+</table>-->
 
 <!--## :fire: Let's work harder to build a beautiful :earth_americas:
 ## :two_men_holding_hands: Together!-->
