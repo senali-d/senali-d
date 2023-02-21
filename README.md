@@ -1,8 +1,8 @@
-# Hi, I'm Senali 👋
+<!--# Hi, I'm Senali 👋-->
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966"/>
 
----
+
 <samp>
 I am a Front-End developer who loves solving problems. I like to collaborate with developer for learning new things from them.
 Interested in python.
