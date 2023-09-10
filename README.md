@@ -27,7 +27,7 @@ while(dev.isCoding())
 <br/><br/>
 Community is the foundation of Open Source, find yours and GROW!!
 
-<p align="center">Feel free reaching out to me at following platforms:</p>
+<!--p align="center">Feel free reaching out to me at following platforms:</p-->
 
 <p align="center">
   <!--a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a--> 
