@@ -25,7 +25,7 @@ while(dev.isCoding())
 
 [![@senali's Holopin board](https://holopin.io/api/user/board?user=senali)](https://holopin.io/@senali)-->
 <br/><br/>
-Community is the foundation of Open Source, find yours and GROW!!
+Community is the foundation of Open Source,<br/> find yours and GROW!!
 
 <!--p align="center">Feel free reaching out to me at following platforms:</p-->
 
