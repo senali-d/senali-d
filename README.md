@@ -2,13 +2,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/senali-d/senali-d/assets/52546856/85301310-c860-4a0a-8071-6d4516923b46"/>
 
-
-<samp>
+<!--samp>
 I am a Front-End developer who loves solving problems. I like to collaborate with developer for learning new things from them.
 Interested in python.
-</samp>
+</samp!-->
 
-<!--###### A passionate frontend developer
+###### A passionate frontend developer
 
 ```ts
 var dev = new Developer('Senali');
@@ -16,10 +15,9 @@ var dev = new Developer('Senali');
 while(dev.isCoding())
 {
   dev.listenToMusic();
-  dev.openStackOverFlow();
   dev.drinkWater();
 }
-```-->
+```
 
 <!--### 1st ever Hacktoberfest participation (October 2022)
 
@@ -77,12 +75,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://medium.com/@senali/contribute-to-open-source-project-using-github-3df6cca263dc" title="5 ways to find projects in Hacktoberfest"><img src="https://miro.medium.com/max/700/1*YADXnI5yYqbhStCxN_dNsQ.jpeg" alt="Contribute to open source project using GitHub" width="250px" align="left" /></a>
-<a href="https://medium.com/@senali/contribute-to-open-source-project-using-github-3df6cca263dc" title="5 ways to find projects in Hacktoberfest"><strong>Contribute to open source project using GitHub</strong></a>
+<a href="https://medium.com/@senali/contribute-to-open-source-project-using-github-3df6cca263dc" title="Contribute to open source project using GitHub"><img src="https://miro.medium.com/max/700/1*YADXnI5yYqbhStCxN_dNsQ.jpeg" alt="Contribute to open source project using GitHub" width="250px" align="left" /></a>
+<a href="https://medium.com/@senali/contribute-to-open-source-project-using-github-3df6cca263dc" title="Contribute to open source project using GitHub"><strong>Contribute to open source project using GitHub</strong></a>
 <br/> So, How to contribute open source project using GitHub?
 Best way to improve skill faster and grow network within the community. 
 It is best way to grow your self. <br/>
