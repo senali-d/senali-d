@@ -16,6 +16,7 @@ while(dev.isCoding())
 {
   dev.listenToMusic();
   dev.drinkWater();
+  ...
 }
 ```
 
