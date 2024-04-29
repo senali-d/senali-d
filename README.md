@@ -7,7 +7,7 @@ I am a Front-End developer who loves solving problems. I like to collaborate wit
 Interested in python.
 </samp!-->
 
-###### A passionate frontend developer
+###### A passionate developer
 
 ```ts
 var dev = new Developer('Senali');
