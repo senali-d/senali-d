@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/p/2ed9f140940" title="Contribute to open source project using GitHub"><strong>What Docker Desktop and Docker Engine in Linux?</strong></a>
 <br/> Docker desktop enabled to build and share containerized applications and microservices in environments Mac, Linux, or Windows. Just a one click application can be install.
 </p> <br/> <br/><br/><br/>
-<p align="left">
+<!--p align="left">
 <a href="https://medium.com/@senali/contribute-to-open-source-project-using-github-3df6cca263dc" title="Contribute to open source project using GitHub"><img src="https://miro.medium.com/max/700/1*YADXnI5yYqbhStCxN_dNsQ.jpeg" alt="Contribute to open source project using GitHub" width="250px" align="left" /></a>
 <a href="https://medium.com/@senali/contribute-to-open-source-project-using-github-3df6cca263dc" title="Contribute to open source project using GitHub"><strong>Contribute to open source project using GitHub</strong></a>
 <br/> So, How to contribute open source project using GitHub?
@@ -96,7 +96,7 @@ It's fun to contribute... </p> <br/> <br/><br/><br/>
 <img src="https://miro.medium.com/max/700/1*YYtrZbMxhjDR8V_UsqofiQ.jpeg" alt="Git Cheatsheet." width="250px" align="left" />
 </a>
 <a href="https://medium.com/@senali/git-cheatsheet-114e8d0d298a" title="Git Cheatsheet"><strong>Git Cheatsheet</strong></a><br/>
-Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</p> <br/> <br/><br/><br/><br/>
+Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</p> <br/> <br/><br/><br/><br/-->
 
 <!-- HASHNODE_BLOG:END -->
 
